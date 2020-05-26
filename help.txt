@@ -1,0 +1,11 @@
+﻿Воркшоп Netclick на JS - день 1
+
+С 25 по 28 мая проводим бесплатный воркшоп по JavaScript. За четыре дня напишем свой сайт сериалов «Неткликс» и разберём, что и как учить в JS, чтобы устроиться в студию джуном.
+
+Присоединяйтесь https://wep.wf/isrl7l
+
+Исходники, с которыми будем работать https://www.youtube.com/redirect?redir_token=UbxISEAG2lxPCVHqHJE6Ijzif4J8MTU5MDU1OTg4MkAxNTkwNDczNDgy&event=video_description&v=FX0LOM10NtI&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fug4sbcom41o4s4m%2Fnetclicks.zip%3Fdl%3D0
+
+
+Бейне сабаққа сілтеме 1 https://youtu.be/FX0LOM10NtI
+Бейне сабаққа сілтеме 2 https://youtu.be/WbH26yOM4Ww
